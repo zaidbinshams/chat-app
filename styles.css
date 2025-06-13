@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.chat-window {
+    height: 300px;
+    width: 100vw;
+    background-color: grey;
+    overflow-y: auto;
+}
+
+.msg {
+    padding: 1rem 10%;
+    background-color: yellow;
+    color: red;
+}
